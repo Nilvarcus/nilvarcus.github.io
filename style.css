@@ -2,17 +2,17 @@
    CORE VARIABLES (THEME CONFIGURATION)
    ========================================= */
 :root {
-    --bg-color: #F0F2F5;
-    /* Sterile Light Grey */
-    --surface-color: #FFFFFF;
-    /* Pure White */
-    --text-main: #0A0A0A;
-    /* Heavy Black */
-    --text-muted: #6B7280;
-    /* Technical Grey */
-    --border-color: #D1D5DB;
-    /* Interface Lines */
-    --accent-red: #FF1E1E;
+    --bg-color: #0A0A0A;
+    /* Deep Void Black */
+    --surface-color: #121212;
+    /* Dark Surface Grey */
+    --text-main: #F0F2F5;
+    /* High-Vis Off-White */
+    --text-muted: #9CA3AF;
+    /* Technical Muted Grey */
+    --border-color: #374151;
+    /* Subtle Interface Lines */
+    --accent-red: #FF3333;
     /* High-Vis Tactical Red */
 
     --font-sans: 'Inter', sans-serif;
