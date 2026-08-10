@@ -417,6 +417,10 @@
             item.addEventListener('mouseenter', event => {
                 let iterations = 0;
 
+                // Keep changing letter widths from resizing the grid row under the pointer.
+                titleElement.style.height = `${titleElement.getBoundingClientRect().height}px`;
+                titleElement.style.overflow = 'hidden';
+
                 // Clear any existing interval if the user moves the mouse fast
                 clearInterval(item.hoverInterval);
 
@@ -448,6 +452,8 @@
             item.addEventListener('mouseleave', event => {
                 clearInterval(item.hoverInterval);
                 titleElement.textContent = originalText;
+                titleElement.style.height = '';
+                titleElement.style.overflow = '';
             });
         });
     </script>
