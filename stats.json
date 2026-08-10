@@ -1,0 +1,110 @@
+{
+  "updated": "2026-08-10T06:37:04+00:00",
+  "source": "YouTube Data API v3 + YouTube Analytics API",
+  "channel": "Nilvarcus",
+  "period": {
+    "start": "2026-05-12",
+    "end": "2026-08-09"
+  },
+  "metrics": {
+    "subscribers": 1210,
+    "subscribers_display": "1.2K",
+    "lifetime_views": 726904,
+    "lifetime_views_display": "726.9K",
+    "lifetime_videos": 791,
+    "views_last_90_days": 61700,
+    "views_last_90_days_display": "61.7K",
+    "net_subscribers_last_90_days": 88,
+    "net_subscribers_last_90_days_display": "88",
+    "median_long_form_views_last_10": 71,
+    "median_long_form_views_last_10_display": "71",
+    "long_form_uploads_last_90_days": 24,
+    "core_audience": {
+      "age_range": "25-34",
+      "viewer_percentage": 55.7
+    }
+  },
+  "manual": {
+    "years_gaming_experience": 20,
+    "games_covered": null
+  },
+  "review": {
+    "classification": "Known Shorts IDs are excluded; videos under 180 seconds are treated as Shorts as a fallback because the Data API has no reliable isShorts field.",
+    "long_form_videos_used_for_median": [
+      {
+        "id": "GLZ4lLizAXI",
+        "title": "No One Has Reviewed This MMO. I Played the Alpha.",
+        "published_at": "2026-08-08T06:10:29Z",
+        "view_count": 51,
+        "duration_seconds": 679
+      },
+      {
+        "id": "wXId1f-qses",
+        "title": "I Watched New Ragnarok Play Itself for 1 Hours.",
+        "published_at": "2026-08-01T08:41:18Z",
+        "view_count": 34,
+        "duration_seconds": 624
+      },
+      {
+        "id": "h49vPT2yrJ0",
+        "title": "This Battle Royale Became a Zelda Co-Op RPG.",
+        "published_at": "2026-07-27T15:04:42Z",
+        "view_count": 37,
+        "duration_seconds": 582
+      },
+      {
+        "id": "ifThLoYZd0s",
+        "title": "I Played EVE Vanguard Twice and Forgot It Both Times",
+        "published_at": "2026-07-25T17:13:06Z",
+        "view_count": 11,
+        "duration_seconds": 522
+      },
+      {
+        "id": "x1T6JjplMdw",
+        "title": "Is This the End of PlayStation Ownership?",
+        "published_at": "2026-07-21T17:34:31Z",
+        "view_count": 63,
+        "duration_seconds": 357
+      },
+      {
+        "id": "16krnUCbh7A",
+        "title": "Solo Developed Runescape-Like Browser MMO - SlimeVille",
+        "published_at": "2026-07-17T17:56:32Z",
+        "view_count": 79,
+        "duration_seconds": 517
+      },
+      {
+        "id": "zto-Paew6_o",
+        "title": "Echoes of Aincrad Has a €70 Problem.",
+        "published_at": "2026-07-14T14:57:38Z",
+        "view_count": 94,
+        "duration_seconds": 929
+      },
+      {
+        "id": "fLRjr4PvItk",
+        "title": "Can One Dev Fix What Gravity Broke in Ragnarok Online?",
+        "published_at": "2026-07-09T16:50:46Z",
+        "view_count": 92,
+        "duration_seconds": 1013
+      },
+      {
+        "id": "v2fWCGKWEZE",
+        "title": "ArcheAge Chronicles Just Admitted It's Not an MMO (DEV Q&A)",
+        "published_at": "2026-07-05T17:44:47Z",
+        "view_count": 135,
+        "duration_seconds": 540
+      },
+      {
+        "id": "cYLsuNOARjI",
+        "title": "This Mobile MMO Made me Mad. (RF Online Next)",
+        "published_at": "2026-07-04T18:13:00Z",
+        "view_count": 156,
+        "duration_seconds": 523
+      }
+    ],
+    "subscriber_totals": {
+      "gained": 118,
+      "lost": 30
+    }
+  }
+}
